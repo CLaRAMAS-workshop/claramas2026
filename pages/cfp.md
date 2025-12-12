@@ -54,5 +54,5 @@ Accordingly, CLaRAMAS welcomes submissions dealing with the following **topics o
 
 #### Submission
 
-Check the 🗳️ [submission page](/submission) for practical instructions, 
-and the 🗓️ [important dates](/dates) to not miss the submission deadline 😉
+Check the 🗳️ [submission page](/claramas2026/submission) for practical instructions, 
+and the 🗓️ [important dates](/claramas2026/dates) to not miss the submission deadline 😉
