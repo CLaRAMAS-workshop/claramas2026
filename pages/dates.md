@@ -12,5 +12,5 @@ tags: [call for papers, deadlines, publication]
   * Acceptance notification: March, 20th 2026
   * Workshop date: May 25th--26th (exact day to be announced yet)
 
-Check the 🗳️ [submission page](submission) for submission instructions, 
-and the 📣 [call for proposals](cfp) for the list of relevant topics. 
+Check the 🗳️ [submission page](/submission) for submission instructions, 
+and the 📣 [call for proposals](/cfp) for the list of relevant topics. 

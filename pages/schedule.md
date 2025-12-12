@@ -14,7 +14,7 @@ CLaRAMAS is a 1-day workshop, featuring the following activities:
   * **oral presentations** for all the accepted full papers 
 split in topic-based sessions spanning across both the morning and the afternoon, 
 and each followed by a Q&A window 
-  * **2 poster sessions** for papers accepted as extended abstracts (see the [submission](submission) page), 
+  * **2 poster sessions** for papers accepted as extended abstracts (see the [submission](/submission) page), 
 planned in a short break between each full papers session
   * a working activity with **focus groups** assembled during the day, depending on participants' interests
 (scheduled dynamically, but most probably at the end of the afternoon session)
