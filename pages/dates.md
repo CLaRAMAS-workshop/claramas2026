@@ -1,0 +1,16 @@
+---
+layout: page
+title: Important dates
+permalink: /dates/
+feature-img: "assets/img/header/Paphos-Cyprus.jpg"
+tags: [call for papers, deadlines, publication]
+---
+
+#### Important Dates
+
+  * Papers submission: February,4th 2026
+  * Acceptance notification: March, 20th 2026
+  * Workshop date: May 25th--26th (exact day to be announced yet)
+
+Check the 🗳️ [submission page](/submission/) for submission instructions, 
+and the 📣 [call for proposals](/cfp/) for the list of relevant topics. 

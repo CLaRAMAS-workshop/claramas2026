@@ -51,3 +51,8 @@ Accordingly, CLaRAMAS welcomes submissions dealing with the following **topics o
   * cooperative planning, prediction, and diagnosis using (perhaps, partially) shared causal models
   * cooperative causal discovery and inference in MAS
   * neuro-symbolic AI via causal models 
+
+#### Submission
+
+Check the 🗳️ [submission page](/submission/) for practical instructions, 
+and the 🗓️ [important dates](/dates/) to not miss the submission deadline 😉

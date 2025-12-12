@@ -44,3 +44,8 @@ We are negotiating publication of accepted papers and extended abstracts
 with Springer in a **LNCS/LNAI volume**. 
 
 📢 Stay tuned 📢
+
+#### Important dates
+
+Check the 📣 [call for proposals](/cfp/) for the list of relevant topics, 
+and the 🗓️ [important dates](/dates/) to not miss the submission deadline 😉

@@ -116,6 +116,6 @@ If you are persuaded that CRL can notably improve the way we build
 autonomous agents and multi-agent systems,
 📝 **consider submitting a paper** 📝 to join this new and promising research direction.
 
-Check the detailed Call for Papers [here](/cfp).
+Check the detailed [Call for Papers](/cfp).
 
 ---

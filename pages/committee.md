@@ -39,7 +39,7 @@ is organised by
             📫 <a href="mailto:julien.siebert@iese.fraunhofer.de">email</a> </td>
     </tr>
     <tr>
-        <td width="25%"><img src="../assets/img/people/mehdi_dastani.jpeg"></td>
+        <td width="25%"><img src="../assets/img/people/mehdi_dastani.jpeg" width="120%"></td>
         <td width="60%">Prof. <strong>Mehdi Dastani</strong> 👋<br>
             <em>Department of Information and Computing Sciences</em> <br>
             <em>Utrecht University</em> <br>
