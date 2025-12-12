@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Description
+permalink: /description/
 feature-img: "assets/img/header/Paphos-Cyprus.jpg"
-tags: [Home]
+tags: [aim, scope, motivation, impact]
 ---
 
 Welcome to the homepage of the 
 **1st International Workshop on "Causal Learning and Reasoning in Agents and Multiagent Systems" (CLaRAMAS)**, 
 hosted by the [25th International Conference on Agents and Multiagent Systems (AAMAS)](https://cyprusconferences.org/aamas2026/) ☺️
+
+#### Aim
 
 This workshop aims to foster cross-disciplinary exchange 
 and synergistic collaboration between two complementary communities: 
@@ -17,14 +19,12 @@ the AAMAS community 🤖,
 and the Causal Learning and Reasoning (CLR) community 🔎, 
     dedicated to developing models and methods for **causal discovery an inference**. 
 
----
-
 The overarching goal is to **bridge these domains** by exploring the following open questions: 
 
   * 🤔 *How CLR techniques can enhance agent-based decision-making?* ❓
   * ❓ *How agent-oriented perspectives can leverage the operational deployment of causal models in real-world applications?* 🤔
 
----
+#### Scope
 
 The concept of an "agent" represents a foundational abstraction in software engineering, 
 encapsulating the notion of agency---namely, the capacity of a software entity to bring about effects 
@@ -52,6 +52,8 @@ Consequently,
 
 Only by modeling these reciprocal influences can agents achieve robust and purposeful collaboration 
 (or competition) toward their respective objectives.
+
+#### Motivation
 
 > ⚠️ However, this fundamental role of causal modelling 
 > of the agent-environment and agent-agent relationships 
@@ -85,6 +87,8 @@ including those built with reinforcement learning (RL)
 encode causal knowledge **implicitly** within learned policies 
 rather than through explicit, interpretable causal models.
 
+#### Expected impact
+
 > 👉 The availability of an **explicit, 
 > mathematically grounded causal model** 
 > would bring several key advantages for agent and MAS engineering. 😃 
@@ -112,6 +116,6 @@ If you are persuaded that CRL can notably improve the way we build
 autonomous agents and multi-agent systems,
 📝 **consider submitting a paper** 📝 to join this new and promising research direction.
 
-Check the detailed Call for Papers [here]().
+Check the detailed Call for Papers [here](/cfp).
 
 ---

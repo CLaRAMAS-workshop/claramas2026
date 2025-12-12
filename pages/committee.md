@@ -6,6 +6,8 @@ feature-img: "assets/img/header/Paphos-Cyprus.jpg"
 tags: [organising committee, technical program committee, people]
 ---
 
+#### Organising Committee
+
 The **1st International Workshop on "Causal Learning and Reasoning in Agents and Multiagent Systems" (CLaRAMAS)**
 is organised by 
 
@@ -46,6 +48,8 @@ is organised by
             📫 <a href="mailto:m.m.dastani@uu.nl">email</a> </td>
     </tr>
 </table>
+
+#### Technical Program Committee
 
 The **Technical Program Committee** members are
 
