@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://CLaRAMAS-workshop.github.io/claramas2026/"
+baseurl: "/claramas2026"
+url: "https://CLaRAMAS-workshop.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: CLaRAMAS Workshop 2026                                    # site's title
