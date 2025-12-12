@@ -47,5 +47,5 @@ with Springer in a **LNCS/LNAI volume**.
 
 #### Important dates
 
-Check the 📣 [call for proposals](/cfp/) for the list of relevant topics, 
-and the 🗓️ [important dates](/dates/) to not miss the submission deadline 😉
+Check the 📣 [call for proposals](claramas2026/cfp/) for the list of relevant topics, 
+and the 🗓️ [important dates](claramas2026/dates/) to not miss the submission deadline 😉
