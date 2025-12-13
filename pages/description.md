@@ -6,7 +6,7 @@ feature-img: "assets/img/header/Paphos-Cyprus.jpg"
 tags: [aim, scope, motivation, impact]
 ---
 
-Welcome to the homepage of the 
+Welcome to the  
 **1st International Workshop on "Causal Learning and Reasoning in Agents and Multiagent Systems" (CLaRAMAS)**, 
 hosted by the [25th International Conference on Agents and Multiagent Systems (AAMAS)](https://cyprusconferences.org/aamas2026/) ☺️
 
@@ -19,14 +19,14 @@ the AAMAS community 🤖,
 and the Causal Learning and Reasoning (CLR) community 🔎, 
     dedicated to developing models and methods for **causal discovery an inference**. 
 
-The overarching goal is to **bridge these domains** by exploring the following open questions: 
+The overarching goal is to **bridge these communities** by exploring the following open questions: 
 
   * 🤔 *How CLR techniques can enhance agent-based decision-making?* ❓
   * ❓ *How agent-oriented perspectives can leverage the operational deployment of causal models in real-world applications?* 🤔
 
 #### Scope
 
-The concept of an "agent" represents a foundational abstraction in software engineering, 
+The concept of "agent" represents a foundational abstraction in software engineering, 
 encapsulating the notion of agency---namely, the capacity of a software entity to bring about effects 
 in pursuit of specific goals within its operating environment. 
 Exercising agency requires the ability to interpret the structure and dynamics of that environment 
@@ -55,9 +55,9 @@ Only by modeling these reciprocal influences can agents achieve robust and purpo
 
 #### Motivation
 
-> ⚠️ However, this fundamental role of causal modelling 
+> ⚠️ However, the fundamental role of causal modelling 
 > of the agent-environment and agent-agent relationships 
-> is **not yet widely and deeply discussed in the AAMAS community. ⚠️**
+> is **not yet widely and deeply discussed in the AAMAS community**. ⚠️
 
 Although Causal Learning and Reasoning (CLR) methods 
 -- encompassing techniques for discovering qualitative cause-effect relationships 
@@ -98,8 +98,8 @@ for prediction, planning, and diagnosis** of agent behavior,
 based on principled reasoning about the consequences of actions 
 and the causes of observed effects. 
   2. 💡 It would enable richer forms of reasoning, 
-including **interventional ("What if I do this?") 
-and counterfactual** ("What if I had acted differently in that situation?") analyses.
+including **interventional (*"What if I do this?"*) 
+and counterfactual** (*"What if I had acted differently in that situation?"*) analyses.
   3. 🤝 It would facilitate **seamless integration between learning-based and programming-based approaches**, 
 as causal models can be partially designed and then 
 completed, expanded, or refined by learning from data. 

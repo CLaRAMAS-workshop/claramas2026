@@ -6,6 +6,10 @@ feature-img: "assets/img/header/Paphos-Cyprus.jpg"
 tags: [call for papers, topics, publication, papers, posters]
 ---
 
+Welcome to the 
+**1st International Workshop on "Causal Learning and Reasoning in Agents and Multiagent Systems" (CLaRAMAS)**,
+hosted by the [25th International Conference on Agents and Multiagent Systems (AAMAS)](https://cyprusconferences.org/aamas2026/) ☺️
+
 #### Premise
 
 The concept of an "agent" represents a foundational abstraction in software engineering,

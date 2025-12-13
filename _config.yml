@@ -9,7 +9,7 @@ avatar: assets/img/CLaRAMAS-symbol.svg                         # Empty for no av
 favicon: assets/CLaRAMAS-icon.svg                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: News  # Change Blog header text
+header_text: 1st International Workshop on “Causal Learning and Reasoning in Agents and Multiagent Systems” (CLaRAMAS)  # Change Blog header text
 header_feature_image: assets/img/header/Paphos-Cyprus.jpg
 header_feature_image_responsive: true
 footer_text: >
