@@ -19,7 +19,7 @@ Bookmark this website to get quick access to all the relevant information:
 and [deadlines](/claramas2026/dates) to bring your contribution to the workshop 😉
 
 Also, if you have any question about the event, 
-do not hesitate to [contact us](/claramas2026/committee) 📧
+do not hesitate to [contact us](/claramas2026/committees) 📧
 
-Finally, consider to apply to join our [Technical Program Committee](/claramas2026/committee) 
+Finally, consider to apply to join our [Technical Program Committee](/claramas2026/committees) 
 if you want to contribute in steering the research directions nurtured by CLaRAMAS 🤝
