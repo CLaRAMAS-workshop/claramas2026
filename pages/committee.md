@@ -53,29 +53,32 @@ is organised by
 
 The **Technical Program Committee** members are
 
-| Franco Zambonelli | University of Modena and Reggio Emilia | Italy |
-| Alessandro Ricci | University of Bologna | Italy |
-| Ada Diaconescu | Telecom Paris | France |
-| Roxana Rădulescu | Utrecht University | Netherlands |
-| Gauthier Picard | École des Mines de Saint-Étienne | France |
-| Chiara Boldrini | National Research Council | Italy |
-| Mingxuan Li | Columbia University | US |
-| Giuseppe Vizzari | University of Milano-Bicocca | Italy |
-| Vahid Yazdanpanah | University of Southampton | UK |
-| Sander Beckers | University College London | UK |
-| Rodica G. Mihai | NORCE Energy | Norway |
-| Onn Shehory | Bar Ilan University | Israel |
-| Michael Thielscher | University of New South Wales | Australia |
-| Ann Nowé | Vrije Universiteit Brussel | Belgium |
-| Carles Sierra | Spanish National Research Council | Spain |
-| Kristian Kersting | Technical University Darmstadt | Germany |
-| Tom Lenaerts | Vrije Universiteit Brussel | Belgium |
-| Rem Collier | University College Dublin | Ireland |
-| Shihan Wang | Utrecht University | Netherlands |
-| Nardine Osman | Spanish National Research Council | Spain |
-| Wico Mulder | TNO | Netherlands |
-| Sylvia Kerkhove | Utrecht University | Netherlands |
-| Francisco N. F. Q. Simoes | Utrecht University | Netherlands |
-| Giovanni Briglia | University of Modena and Reggio Emilia | Italy |
-| Maksim Gladyshev | Utrecht University | Netherlands |
-| Sven Koenig | University of California Irvine | USA |
+| Name                      | Affiliation                            | Country     |
+|---------------------------|----------------------------------------|-------------|
+| Franco Zambonelli         | University of Modena and Reggio Emilia | Italy       |
+| Alessandro Ricci          | University of Bologna                  | Italy       |
+| Ada Diaconescu            | Telecom Paris                          | France      |
+| Roxana Rădulescu          | Utrecht University                     | Netherlands |
+| Gauthier Picard           | École des Mines de Saint-Étienne       | France      |
+| Chiara Boldrini           | National Research Council              | Italy       |
+| Mingxuan Li               | Columbia University                    | US          |
+| Giuseppe Vizzari          | University of Milano-Bicocca           | Italy       |
+| Vahid Yazdanpanah         | University of Southampton              | UK          |
+| Sander Beckers            | University College London              | UK          |
+| Rodica G. Mihai           | NORCE Energy                           | Norway      |
+| Onn Shehory               | Bar Ilan University                    | Israel      |
+| Michael Thielscher        | University of New South Wales          | Australia   |
+| Ann Nowé                  | Vrije Universiteit Brussel             | Belgium     |
+| Carles Sierra             | Spanish National Research Council      | Spain       |
+| Kristian Kersting         | Technical University Darmstadt         | Germany     |
+| Tom Lenaerts              | Vrije Universiteit Brussel             | Belgium     |
+| Rem Collier               | University College Dublin              | Ireland     |
+| Shihan Wang               | Utrecht University                     | Netherlands |
+| Nardine Osman             | Spanish National Research Council      | Spain       |
+| Wico Mulder               | TNO                                    | Netherlands |
+| Sylvia Kerkhove           | Utrecht University                     | Netherlands |
+| Francisco N. F. Q. Simoes | Utrecht University                     | Netherlands |
+| Giovanni Briglia          | University of Modena and Reggio Emilia | Italy       |
+| Maksim Gladyshev          | Utrecht University                     | Netherlands |
+| Sven Koenig               | University of California Irvine        | USA         |
+| Thijs van Ommen           | Utrecht University                     | Netherlands |
