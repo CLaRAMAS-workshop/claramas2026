@@ -47,14 +47,17 @@ Only by modeling these reciprocal influences can agents achieve robust and purpo
 
 Accordingly, CLaRAMAS welcomes submissions dealing with the following **topics of interest**:
   * how to integrate causal learning in agent architectures and MAS
-  * how to carry out causal learning of agent-environment and agent-agent relationships from the standpoint of an individual agent and of the MAS as a whole
+  * how to carry out causal learning of agent-environment and agent-agent relationships from the standpoint of an individual agent or of the MAS as a whole
   * how causal modelling and learning can be integrated in agent-oriented software engineering methodologies
-  * how causal learning may integrate with learning-based approaches to agent design, such as with Reinforcement Learning
-  * theoretical foundations of causal modelling in MAS, there included integration of game-theoretic formalisms and causal modelling frameworks
+  * exploring causal explainability, safety, and robustness in agent(s) design, for instance in robotic and multi-robot systems
+  * how causal learning may integrate with learning-based approaches to agent design, such as with Reinforcement Learning for counterfactual reasoning, credit assignment, policy evaluation, policy improvement in single- and multi-agent systems
+  * theoretical foundations of causal learning and reasoning in single- and multi-agent systems, including the relationship between sequential decision making (e.g., MDPs) and Pearl structural causal models, integration of game-theoretic formalisms, etc.
   * practical applications of causal learning and reasoning in MAS
   * cooperative planning, prediction, and diagnosis using (perhaps, partially) shared causal models
+  * combining causal learning and reasoning with planning and adaptive control, including model-based, model-free and hybrid approaches
   * cooperative causal discovery and inference in MAS
-  * neuro-symbolic AI via causal models 
+  * neuro-symbolic AI via causal models
+  * evaluation and benchmarks for causal MAS applications, including datasets, metrics, simulators, and reproducible experimental pipelines
 
 #### Submission
 
