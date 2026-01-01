@@ -8,7 +8,7 @@ tags: [call for papers, deadlines, publication]
 
 #### Important Dates
 
-  * Papers submission: February,4th 2026
+  * Papers submission: February, 4th 2026
   * Acceptance notification: March, 20th 2026
   * Workshop date: May 25th--26th (exact day to be announced yet)
 
