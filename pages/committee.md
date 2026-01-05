@@ -71,7 +71,7 @@ The **Technical Program Committee** members are
 | Ann Nowé                  | Vrije Universiteit Brussel             | Belgium     |
 | Carles Sierra             | Spanish National Research Council      | Spain       |
 | Kristian Kersting         | Technical University Darmstadt         | Germany     |
-| Tom Lenaerts              | Vrije Universiteit Brussel             | Belgium     |
+| Tom Lenaerts              | Université Libre de Bruxelles          | Belgium     |
 | Rem Collier               | University College Dublin              | Ireland     |
 | Shihan Wang               | Utrecht University                     | Netherlands |
 | Nardine Osman             | Spanish National Research Council      | Spain       |
