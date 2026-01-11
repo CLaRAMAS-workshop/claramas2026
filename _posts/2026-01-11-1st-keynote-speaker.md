@@ -8,8 +8,6 @@ categories: blog
 
 🍾 The Organising Committee of CLaRAMAS is honoured to host **Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)** as our first keynote speaker! 🥂
 
-![Prof. Emiliano Lorini](../../../assets/img/people/fotoLorini.jpg)
-
 Prof. Lorini's research mostly concerns the development of **formal models of interaction between cognitive agents**.
 His work exploits **logic and game theory** as formal tools for building models of interaction between cognitive agents.
 Recently, he authored paper *"[A rule-based modal view of causal reasoning](https://www.ijcai.org/proceedings/2023/0366.pdf)"*, published at IJACI 2023, 
