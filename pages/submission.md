@@ -48,7 +48,7 @@ Papers will be evaluated upon
   * **clarity** of the exposition
   * **positioning** with respect to the state of the art
 
-Check the 📣 [call for proposals](/claramas2026/cfp) for the list of relevant topics.
+Check the 📣 [call for papers](/claramas2026/cfp) for the list of relevant topics.
 
 🆕 Reviewers will have the chance to accept a paper as a **poster** 🏞️ 
 instead of a full or short paper, 
@@ -71,7 +71,7 @@ and criticism satisfactorily addressed.
 
 #### Important dates
 
-Check the 📣 [call for proposals](/claramas2026/cfp) for the list of relevant topics, 
+Check the 📣 [call for papers](/claramas2026/cfp) for the list of relevant topics, 
 and the 🗓️ [important dates](/claramas2026/dates) to not miss the submission deadline 😉
 
 #### On supplementary material
