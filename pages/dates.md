@@ -13,4 +13,4 @@ tags: [call for papers, deadlines, publication]
   * Workshop date: May 25th--26th (exact day TBA yet)
 
 Check the 🗳️ [submission page](/claramas2026/submission) for submission instructions, 
-and the 📣 [call for proposals](/claramas2026/cfp) for the list of relevant topics. 
+and the 📣 [call for papers](/claramas2026/cfp) for the list of relevant topics. 
