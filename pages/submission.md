@@ -4,29 +4,25 @@ title: Submission
 permalink: /submission/
 feature-img: "assets/img/header/Paphos-Cyprus.jpg"
 tags: [submission, review, proceedings, publication, papers, keynotes, posters]
-toc: true
-toc_icon: "fas fa-book-open"
 ---
 
 #### Submission
 
-Papers should be written in English,
-🆕 formatted according to [Springer LNCS guidelines and template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) 🆕,  
-and be submitted as a single PDF document on [OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS).
-
 The submission link is [https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS]().
 
-🆕 **Full papers** must have a **minimum of 10 pages and a maximum of 20** (both excluding references), 
-whereas **short papers** must have a **minimum of 6 pages and a maximum of 8** (also excluding references).
-*Supplementary material is permitted for full papers only*, 
-but ⚠️ beware that *reviewers are not obliged to consider it* ⚠️
-(unless it's code and data needed for reproducibility) 
-and that the main manuscript should be self-contained 
-and fully clarify the scientific and technical contribution. 🆕 
+🆕 CLaRAMAS welcomes 3 kinds of submission:
 
-❌ Excessive use of typesetting tricks to fit into the page limits is not admissible and will result in desk reject.
-❌ Modifications to the style files or any of the layout parameters will also result in desk reject. 
+  - **Full papers**, which must have a **minimum of 10 pages and a maximum of 16** (both excluding references)
+  - **Short papers**, which must have **6 pages** (also excluding references)
+  - **Posters**, in the form of an extended abstract of at most **3 pages** (guess what? excluding references)
+
+Papers should be written in English,
+formatted according to [Springer LNCS guidelines and template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines),  
+and be submitted as a single PDF document on [OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS).
+
 **The use of LaTeX is mandatory**.
+❌ Excessive use of typesetting tricks to fit into the page limits is not admissible and will result in desk reject.
+❌ Modifications to the style files or any of the layout parameters will also result in desk reject.
 
 **All authors are required to have OpenReview profiles**. 
 Since these can take some time to obtain, 
@@ -52,18 +48,34 @@ Papers will be evaluated upon
 
 Check the 📣 [call for papers](/claramas2026/cfp) for the list of relevant topics.
 
-🆕 Reviewers will have the chance to accept a paper as a **poster** 🏞️ 
-instead of a full or short paper, 
-*provided that the authors opted in* during submission.  
-In that case, a **3-page extended abstract** (excluding references) 
+#### Posters 
+
+Posters submitted can describe **both new contributions 
+and already published material**. 
+In the latter case, 
+authors are requested to acknowledge the published material 
+explicitly in the extended abstract.
+
+Besides authors' poster submissions, 
+reviewers will have the chance to accept a full or short paper as a **poster**, 
+️*provided that the authors opted in* during submission of a full or short paper.  
+In that case, a **3-pages extended abstract** (excluding references) 
 will be required to complement the poster.
-❌ Such extended abstract will **NOT be included in CLaRAMAS post-proceedings**, 
+
+🆕 Additionally, authors of accepted full and short papers 
+may also request to bring a poster at the workshop, too 🆕: 
+in this case, *no additional extended abstract is required*, 
+as the poster will be another means of dissemination 
+of the accepted paper contribution 
+besides the oral presentation. 
+
+❌ Extended abstracts will **NOT be included in CLaRAMAS post-proceedings**, 
 but will be made available on CLaRAMAS website publicly.
 
 #### Publication of accepted papers
 
-🆕 Accepted papers (both full and short, not posters) will be published in CLaRAMAS post-proceedings 
-as a [Springer CCIS](https://link.springer.com/series/7899) volume. 🆕 
+Accepted papers (both full and short, *not posters*) will be published in CLaRAMAS post-proceedings 
+as a [Springer CCIS](https://link.springer.com/series/7899) volume. 
 
 A 2nd, **light review round**  will be set up for the camera-ready version 
 to check that reviewers' suggestions have been reasonably incorporated, 
@@ -78,7 +90,12 @@ and the 🗓️ [important dates](/claramas2026/dates) to not miss the submissio
 
 #### On supplementary material
 
-Authors have the option to accompany submissions with supplementary material. 
+*Supplementary material is permitted for full papers only*,
+but ⚠️ beware that *reviewers are not obliged to consider it* ⚠️
+(unless it's code and data needed for reproducibility)
+and that the main manuscript should be self-contained
+and fully clarify the scientific and technical contribution. 🆕
+
 We encourage providing supplementary material containing, e.g., 
 missing or more comprehensive versions of proofs, 
 detailed information about conducted experiments, 
