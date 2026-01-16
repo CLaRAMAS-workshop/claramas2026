@@ -4,6 +4,8 @@ title: Submission
 permalink: /submission/
 feature-img: "assets/img/header/Paphos-Cyprus.jpg"
 tags: [submission, review, proceedings, publication, papers, keynotes, posters]
+toc: true
+toc_icon: "fas fa-book-open"
 ---
 
 #### Submission
