@@ -81,7 +81,20 @@ A 2nd, **light review round**  will be set up for the camera-ready version
 to check that reviewers' suggestions have been reasonably incorporated, 
 and criticism satisfactorily addressed. 
 
+At least one author of each accepted paper 
+will be required to [register for the workshop](https://cyprusconferences.org/aamas2026/registration/) 
+by the early registration deadline 
+with the intention of presenting the paper *in person* at CLaRAMAS. 
+**This is a prerequisite for your paper being included in CLaRAMAS post-proceedings**. 
+
+Remote presentation of accepted papers will be considered 
+only in exceptional circumstances and on an individual basis:
+[ask to us organisers](mailto:stefano.mariani@unimore.it).
+
 📢 Stay tuned 📢 for additional information regarding the expected timeline and workflow.
+
+Additionally, *all* accepted papers (including extended abtracts), 
+along with reviews, will be **publicly available on OpenReview**. 
 
 #### Important dates
 
@@ -121,3 +134,10 @@ at the time of publication of the paper,
 and that a reference to the supplementary material should be included 
 in the camera-ready version of the paper. 
 For code or data you may wish to use a service such as [Zenodo](https://zenodo.org/) or [Github](https://github.com/). 
+
+#### Policies
+
+The AAMAS general policies alo apply to CLaRAMAS, 
+hence we encourage authors to check them out [here](https://cyprusconferences.org/aamas2026/submission-instructions/) 
+before submission,
+and [ask to us organisers](mailto:stefano.mariani@unimore.it) if they have questions.
