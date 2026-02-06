@@ -17,7 +17,7 @@ and synergistic collaboration between two complementary communities:
 the AAMAS community 🤖, 
     focused on advancing the **engineering of autonomous agents and MAS**, 
 and the Causal Learning and Reasoning (CLR) community 🔎, 
-    dedicated to developing models and methods for **causal discovery an inference**. 
+    dedicated to developing models and methods for **causal discovery and inference**. 
 
 The overarching goal is to **bridge these communities** by exploring the following open questions: 
 
