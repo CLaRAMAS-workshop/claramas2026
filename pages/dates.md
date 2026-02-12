@@ -11,7 +11,7 @@ tags: [call for papers, deadlines, publication]
   * 🆕 Short / Full Papers submission: ~~February, 4th 2026~~ **March, 1st 2026** 🆕
   * Poster submission: March, 2nd 2026
   * Acceptance notification: March, ~~20th~~ **30th** 2026
-  * Workshop date: May 25th--26th (exact day TBA yet)
+  * 🆕 Workshop date: May 26th 🆕
 
 Check the 🗳️ [submission page](/claramas2026/submission) for submission instructions, 
 and the 📣 [call for papers](/claramas2026/cfp) for the list of relevant topics. 
