@@ -8,7 +8,10 @@ tags: [format, schedule, papers, keynotes, posters]
 
 #### Format
 
-CLaRAMAS is a 1-day workshop, featuring the following activities: 
+CLaRAMAS is a **1-day workshop** hosted by [AAMAS'26](https://cyprusconferences.org/aamas2026/) taking place on **May 26th** at the [Coral Beach Hotel & Resort](https://coral.com.cy/) in the wonderful city of [Paphos, Cyprus](https://www.visitpafos.org.cy/). 
+Travel information are available from the [dedicated AAMAS'26 page](https://cyprusconferences.org/aamas2026/travel-information/). 
+
+The workshop is featuring the following activities: 
   * **2 invited talks** from leading experts in causal reasoning and engineering of agent systems 
 (morning and afternoon) 
   * **oral presentations** for all the accepted full papers 
