@@ -8,7 +8,7 @@ tags: [submission, review, proceedings, publication, papers, keynotes, posters]
 
 #### Submission
 
-The submission link is [https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS]().
+The submission link is [https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS).
 
 🆕 CLaRAMAS welcomes 3 kinds of submission:
 
