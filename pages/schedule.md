@@ -36,14 +36,13 @@ The following schedule is envisioned, and will be refined after paper acceptance
 
 | When      | What                                                                               | Where        |
 |-----------|------------------------------------------------------------------------------------|--------------|
-| 9:00      | 👨‍🎓 1st keynote (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | room TBA     |
-| 10:00     | Full papers I                                                                      | room TBA     |
-| 11:00     | Posters I 🏞️                                                                      | room TBA     |
-| 11:30     | Full papers II                                                                     | room TBA     |
-| **12:30** | 👩🏻‍🍳 **Lunch break** 🤌🏻                                                       | **room TBA** |
-| 13:30     | 👨‍🎓 2nd keynote                                                                  | room TBA     |
-| 14:30     | Full papers III                                                                    | room TBA     |
-| 15:30     | Posters II 🏞️                                                                     | room TBA     |
-| 16:00     | Full papers IV                                                                     | room TBA     |
-| **17:00** | 🧠 **Focus groups** ✍                                                              | **room TBA** |
-| 18:30     | Closing 👋                                                                         | room TBA     |
+| **9:00-9:45**      | **👨‍🎓 1st keynote** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | room TBA     |
+| 9:45-10:30     | Full papers I                                                                      | room TBA     |
+| *10:30-11:00*     | Posters I 🏞️ (during *coffee break* ☕)                                                                     | room TBA     |
+| 11:00-12:30     | Full papers II                                                                     | room TBA     |
+| *12:30-14:00* | 👩🏻‍🍳 *Lunch break* 🤌🏻                                                       | room TBA |
+| 14:00-14:45     | 👨‍🎓 2nd keynote                                                                  | room TBA     |
+| 14:45-15:30     | Full papers III                                                                    | room TBA     |
+| *15:30-16:00*     | Posters II 🏞️ (during *coffe break* ☕)                                                                    | room TBA     |
+| **16:00-17:30**     | 🧠 **Focus groups** ✍                                                                     | room TBA     |
+| 17:30     | Closing 👋                                                                         | room TBA     |
