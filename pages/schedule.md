@@ -34,15 +34,16 @@ with the aim of **collaboratively draft a white paper on causal learning and rea
 
 The following schedule is envisioned, and will be refined after paper acceptance.
 
-| When      | What                                                                               | Where        |
-|-----------|------------------------------------------------------------------------------------|--------------|
-| **9:00-9:45**      | **👨‍🎓 1st keynote** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | room TBA     |
-| 9:45-10:30     | Full papers I                                                                      | room TBA     |
-| *10:30-11:00*     | Posters I 🏞️ (during *coffee break* ☕)                                                                     | room TBA     |
-| 11:00-12:30     | Full papers II                                                                     | room TBA     |
-| *12:30-14:00* | 👩🏻‍🍳 *Lunch break* 🤌🏻                                                       | room TBA |
-| 14:00-14:45     | 👨‍🎓 2nd keynote                                                                  | room TBA     |
-| 14:45-15:30     | Full papers III                                                                    | room TBA     |
-| *15:30-16:00*     | Posters II 🏞️ (during *coffe break* ☕)                                                                    | room TBA     |
-| **16:00-17:30**     | 🧠 **Focus groups** ✍                                                                     | room TBA     |
-| 17:30     | Closing 👋                                                                         | room TBA     |
+| When            | Duration | What                                                                               | Where    |
+|-----------------|----------|------------------------------------------------------------------------------------|----------|
+| 9:00            |          | 👋 Opening                                                                         | room TBA |
+| **9:00-9:45**   | (45')    | **👨‍🎓 Keynote** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | room TBA |
+| 9:45-10:15      | (30')    | Short papers I                                                                     | room TBA |
+| *10:15-11:00*   | (45')    | Posters I 🏞️ (during *coffee break* ☕)                                            | room TBA |
+| 11:00-11:15     | (15')    | Short papers II                                                                    | room TBA |
+| 11:15-12:30     | (75')    | Full papers I                                                                      | room TBA |
+| *12:30-14:00*   | (90')    | 👩🏻‍🍳 *Lunch break* 🤌🏻                                                         | room TBA |
+| 14:00-15:30     | (90')    | Full papers II                                                                     | room TBA |
+| *15:30-16:15*   | (45')    | Posters II 🏞️ (during *coffe break* ☕)                                            | room TBA |
+| **16:15-17:30** | (75')    | 🧠 **Focus groups** ✍                                                              | room TBA |
+| 17:30           |          | Closing 👋                                                                         | room TBA |
