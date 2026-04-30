@@ -12,7 +12,7 @@ CLaRAMAS is a **1-day workshop** hosted by [AAMAS'26](https://cyprusconferences.
 Travel information are available from the [dedicated AAMAS'26 page](https://cyprusconferences.org/aamas2026/travel-information/). 
 
 The workshop is featuring the following activities: 
-  * **1 invited talk** bu Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/), leading experts in causal reasoning and engineering of agent systems 
+  * **1 invited talk** by Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/), leading expert in causal reasoning and engineering of agent systems 
 (morning) 
   * **oral presentations** for all the accepted full and short papers 
 split in topic-based sessions spanning across both the morning and the afternoon, 
