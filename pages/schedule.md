@@ -36,7 +36,7 @@ The following schedule is envisioned, and will be refined after paper acceptance
 
 | When            | Duration | What                                                                               | Where    |
 |-----------------|----------|------------------------------------------------------------------------------------|----------|
-| 9:00            |          | 👋 Opening                                                                         | room TBA |
+| 8:45-9:00            |          | 👋 Opening                                                                         | room TBA |
 | **9:00-9:45**   | (45')    | **👨‍🎓 Keynote** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | room TBA |
 | 9:45-10:15      | (30')    | Short papers I                                                                     | room TBA |
 | *10:15-11:00*   | (45')    | Posters I 🏞️ (during *coffee break* ☕)                                            | room TBA |
