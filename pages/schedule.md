@@ -59,8 +59,9 @@ Every poster will be on display during every coffee break :)
 
 The table below further details which paper is allocated to which slot. 
 
-> [!WARNING]
-> Although PDFs of accepted papers and posters are already available on [OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS), they will be linked here as soon as they are updated with author details.
+> ⚠️ Although PDFs of accepted papers and posters are already available
+> on [OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS),
+> they will be linked here as soon as they are updated with author details. ⚠️
 
 | Paper title                                                                                                                             | Session          | Starting at | Paper authors                                                                             | 
 |-----------------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------------------------------------------------------------------------------------------|
