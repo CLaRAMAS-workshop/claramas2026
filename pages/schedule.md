@@ -9,13 +9,13 @@ tags: [format, schedule, papers, keynotes, posters]
 #### Format
 
 CLaRAMAS is a **1-day workshop** hosted by [AAMAS'26](https://cyprusconferences.org/aamas2026/) taking place on **May 26th** at the [Coral Beach Hotel & Resort](https://coral.com.cy/) in the wonderful city of [Paphos, Cyprus](https://www.visitpafos.org.cy/). 
-Travel information are available from the [dedicated AAMAS'26 page](https://cyprusconferences.org/aamas2026/travel-information/). 
+Travel information is available from the [dedicated AAMAS'26 page](https://cyprusconferences.org/aamas2026/travel-information/). 
 
-The workshop is featuring the following activities: 
+The workshop features the following activities: 
   * **1 invited talk** by Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/), leading expert in causal reasoning and engineering of agent systems 
 (morning) 
   * **oral presentations** for all the accepted full and short papers 
-split in topic-based sessions spanning across both the morning and the afternoon, 
+split into topic-based sessions spanning both the morning and the afternoon, 
 and each followed by a Q&A window 
   * **2 poster sessions** for papers accepted as extended abstracts (see the [submission](/claramas2026/submission) page), 
 planned during the coffee breaks
@@ -26,27 +26,29 @@ The focus groups have separate, "hands-on" brainstorming sessions
 meant to pinpoint the most promising research directions to be pursued within the AAMAS community, 
 the most pressing challenges to be dealt with, 
 and the open issues still needing clarification, 
-with the aim of **collaboratively draft a white paper on causal learning and reasoning in agents and MAS**.  
+with the aim of **collaboratively drafting a white paper on causal learning and reasoning in agents and MAS**.  
 
 #### Schedule
 
-The table belows reports the bird-eye view schedule of the workshop, 
+**The workshop takes place in room APHRODITE A.**
+
+The table below reports the bird's-eye view schedule of the workshop, 
 indicating the time slots during which the different activities will happen.
 
 | When            | Duration | What                                                                               | Where    |
 |-----------------|----------|------------------------------------------------------------------------------------|----------|
-| 8:45-9:00       |          | 👋 Opening                                                                         | room TBA |
-| **9:00-9:45**   | (45')    | **👨‍🎓 Keynote** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | room TBA |
-| 9:45-10:15      | (30')    | Short papers I                                                                     | room TBA |
-| *10:15-11:00*   | (45')    | Posters I 🏞️ (during *coffee break* ☕)                                            | room TBA |
-| 11:00-11:15     | (15')    | Short papers II                                                                    | room TBA |
-| 11:15-12:30     | (75')    | Full papers I                                                                      | room TBA |
-| *12:30-14:00*   | (90')    | 👩🏻‍🍳 *Lunch break* 🤌🏻                                                         | room TBA |
-| 14:00-15:15     | (75')    | Full papers II                                                                     | room TBA |
-| 15:15-15:30     | (15')    | Introduction to focus groups                                                       | room TBA |
-| *15:30-16:15*   | (45')    | Posters II 🏞️ (during *coffe break* ☕)                                            | room TBA |
-| **16:15-17:30** | (75')    | 🧠 **Focus groups** ✍                                                              | room TBA |
-| 17:30           |          | Closing 👋                                                                         | room TBA |
+| 8:45-9:00       |          | 👋 Opening                                                                         | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| **9:00-9:45**   | (45')    | **👨‍🎓 Keynote** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| 9:45-10:15      | (30')    | Short papers I                                                                     | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| *10:15-11:00*   | (45')    | Posters I 🏞️ (during *coffee break* ☕)                                            | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| 11:00-11:15     | (15')    | Short papers II                                                                    | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| 11:15-12:30     | (75')    | Full papers I                                                                      | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| *12:30-14:00*   | (90')    | 👩🏻‍🍳 *Lunch break* 🤌🏻                                                         | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| 14:00-15:15     | (75')    | Full papers II                                                                     | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| 15:15-15:30     | (15')    | Introduction to focus groups                                                       | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| *15:30-16:15*   | (45')    | Posters II 🏞️ (during *coffe break* ☕)                                            | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| **16:15-17:30** | (75')    | 🧠 **Focus groups** ✍                                                              | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| 17:30           |          | Closing 👋                                                                         | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
 
 Every poster will be on display during every coffee break :)
 
@@ -55,7 +57,7 @@ Every poster will be on display during every coffee break :)
   - *Risk Perspectives in Multi-agents AI Systems for High-Risk Processes in Complex Environments*, by André Meyer-Vitali; Rodica Mihai
   - *Causal Expectations for Decentralised Coordination in Multi-Agent Systems*, by John R. E. Mills; Peter R. Lewis
 
-The table below instead further details which paper is allocated to which slot. 
+The table below further details which paper is allocated to which slot. 
 
 > [!WARNING]
 > Although PDFs of accepted papers and posters are already available on [OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS), they will be linked here as soon as they are updated with author details.
