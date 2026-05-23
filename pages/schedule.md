@@ -52,10 +52,10 @@ indicating the time slots during which the different activities will happen.
 
 Every poster will be on display during every coffee break :)
 
-  - *Causes and Strategies in Multiagent Systems*, by Sylvia S. Kerkhove; Mehdi Dastani; Natasha Alechina
-  - *Abstract Counterfactuals for Language Model Agents*, by Edoardo Pona; Milad Kazemi; Yali Du; David Watson; Nicola Paoletti
+  - *[Causes and Strategies in Multiagent Systems](https://openreview.net/pdf?id=vYoxn7C7Hh)*, by Sylvia S. Kerkhove; Mehdi Dastani; Natasha Alechina
+  - *[Abstract Counterfactuals for Language Model Agents](https://openreview.net/pdf?id=3AhNmbr2X0)*, by Edoardo Pona; Milad Kazemi; Yali Du; David Watson; Nicola Paoletti
   - *Risk Perspectives in Multi-agents AI Systems for High-Risk Processes in Complex Environments*, by André Meyer-Vitali; Rodica Mihai
-  - *Causal Expectations for Decentralised Coordination in Multi-Agent Systems*, by John R. E. Mills; Peter R. Lewis
+  - *[Causal Expectations for Decentralised Coordination in Multi-Agent Systems](https://openreview.net/pdf?id=LWREpLm59w)*, by John R. E. Mills; Peter R. Lewis
 
 The table below further details which paper is allocated to which slot. 
 
@@ -65,13 +65,13 @@ The table below further details which paper is allocated to which slot.
 
 | Paper title                                                                                                                             | Session          | Starting at | Paper authors                                                                             | 
 |-----------------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------------------------------------------------------------------------------------------|
-| Multi-Agent Causal Reasoning Framework: Optimizing Advertising Incrementality via Daily Budget Allocation Under a Fixed Lifetime Budget                                                               | Short papers I   | 9:45        | Paul Lo; Jing Pan; Jingxi Yu; Evelyn Wu; Erte Pan; Simon Hollands                                                          |
+| [Multi-Agent Causal Reasoning Framework: Optimizing Advertising Incrementality via Daily Budget Allocation Under a Fixed Lifetime Budget](https://openreview.net/pdf?id=K8dMIy7Yye)                                                               | Short papers I   | 9:45        | Paul Lo; Jing Pan; Jingxi Yu; Evelyn Wu; Erte Pan; Simon Hollands                                                          |
 | Collaborative Causal Discovery in a Synthetic Environment: Empirical Evaluation of FLODO                                                | Short papers I   | 10:00       | André Meyer-Vitali; Matteo Gregorini                                                      |
-| Causal Expectations for Decentralised Coordination in Multi-Agent Systems | Short papers II  | 11:00       | John R. E. Mills; Peter R. Lewis                         |
+| [Causal Expectations for Decentralised Coordination in Multi-Agent Systems](https://openreview.net/pdf?id=LWREpLm59w) | Short papers II  | 11:00       | John R. E. Mills; Peter R. Lewis                         |
 | [Causal Learning and Reasoning in Multi-Agent Systems: Goals, Issues, and Taxonomy](https://openreview.net/pdf?id=FCr9YFHvwO)                                                   | Full papers I    | 11:15       | Stefano Mariani; Giovanni Briglia; André Meyer-Vitali; Matthias Klusch; Franco Zambonelli |
-| From Implicit to Explicit Causal Models in BDI Agents: A Proof-of-Concept with Causal Discovery and Adaptive Policy                     | Full papers I    | 11:40       | Meltem Gullusac; Baris Tekin Tezel; Moharram Challenger                                   |
-| Evolutionary Learning of Graphical Causal Models from Behavior                                                                          | Full papers I    | 12:05       | H. Van Dyke Parunak                                                                       |
+| [From Implicit to Explicit Causal Models in BDI Agents: A Proof-of-Concept with Causal Discovery and Adaptive Policy](https://openreview.net/pdf?id=mH7MpNMQbb)                     | Full papers I    | 11:40       | Meltem Gullusac; Baris Tekin Tezel; Moharram Challenger                                   |
+| [Evolutionary Learning of Graphical Causal Models from Behavior](https://openreview.net/pdf?id=vqSEiqOIal)                                                                          | Full papers I    | 12:05       | H. Van Dyke Parunak                                                                       |
 | Value Identifiable, Credit Not: A Credit-First Identifiability Frontier for Confounded Sequential Decision-Making                       | Full papers II   | 14:00       | Teresa Zhang                                                                              |
-| Reproducing and Extending Counterfactual Data Augmentation: A Study on Causal Identifiability and Stability in Reinforcement Learning   | Full papers II   | 14:25       | Shilpa Noushad; Sajan Kumar; Pratyush uppuluri                                            |
-| CoACT: Coordination via Aligned Centralized Training in Multi-Agent Reinforcement Learning                                              | Full papers II   | 14:50       | Oussama Azizi; Frans A Oliehoek; Matthijs T. J. Spaan                                     |
+| [Reproducing and Extending Counterfactual Data Augmentation: A Study on Causal Identifiability and Stability in Reinforcement Learning](https://openreview.net/pdf?id=kHAnYGD1Sq)   | Full papers II   | 14:25       | Shilpa Noushad; Sajan Kumar; Pratyush uppuluri                                            |
+| [CoACT: Coordination via Aligned Centralized Training in Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=Oc0QipuIV0)                                              | Full papers II   | 14:50       | Oussama Azizi; Frans A Oliehoek; Matthijs T. J. Spaan                                     |
 
