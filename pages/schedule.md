@@ -38,7 +38,7 @@ indicating the time slots during which the different activities will happen.
 | When            | Duration | What                                                                               | Where    |
 |-----------------|----------|------------------------------------------------------------------------------------|----------|
 | 8:45-9:00       |          | 👋 Opening                                                                         | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
-| **9:00-9:45**   | (45')    | **👨‍🎓 [Keynote](claramas2026/blog/2026/05/23/prof_lorini_talk.html)** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
+| **9:00-9:45**   | (45')    | **👨‍🎓 [Keynote](/claramas2026/blog/2026/05/23/prof_lorini_talk.html)** (Prof. [Emiliano Lorini](https://www.irit.fr/~Emiliano.Lorini/)) | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
 | 9:45-10:15      | (30')    | Short papers I                                                                     | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
 | *10:15-11:00*   | (45')    | Posters I 🏞️ (during *coffee break* ☕)                                            | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
 | 11:00-11:15     | (15')    | Short papers II                                                                    | [Aphrodite A](https://us06web.zoom.us/j/82978019991?pwd=8taCmGHoJLOFQTad8incSfgr8VzIVT.1) |
