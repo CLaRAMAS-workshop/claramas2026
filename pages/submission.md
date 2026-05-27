@@ -10,7 +10,7 @@ tags: [submission, review, proceedings, publication, papers, keynotes, posters]
 
 The submission link is [https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/CLaRAMAS).
 
-🆕 CLaRAMAS welcomes 3 kinds of submission:
+CLaRAMAS welcomes 3 kinds of submission:
 
   - **Full papers**, which must have a **minimum of 10 pages and a maximum of 16** (both excluding references)
   - **Short papers**, which must have **6 pages** (also excluding references)
@@ -62,8 +62,8 @@ reviewers will have the chance to accept a full or short paper as a **poster**,
 In that case, a **3-pages extended abstract** (excluding references) 
 will be required to complement the poster.
 
-🆕 Additionally, authors of accepted full and short papers 
-may also request to bring a poster at the workshop, too 🆕: 
+Additionally, authors of accepted full and short papers 
+may also request to bring a poster at the workshop, too: 
 in this case, *no additional extended abstract is required*, 
 as the poster will be another means of dissemination 
 of the accepted paper contribution 
@@ -107,7 +107,7 @@ and the 🗓️ [important dates](/claramas2026/dates) to not miss the submissio
 but ⚠️ beware that *reviewers are not obliged to consider it* ⚠️
 (unless it's code and data needed for reproducibility)
 and that the main manuscript should be self-contained
-and fully clarify the scientific and technical contribution. 🆕
+and fully clarify the scientific and technical contribution.
 
 We encourage providing supplementary material containing, e.g., 
 missing or more comprehensive versions of proofs, 
